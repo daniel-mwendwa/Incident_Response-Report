@@ -66,6 +66,12 @@ This lab simulates a real-world incident triggered by suspicious system behavior
 - Conducted internal IR review
 
 ---
+## License
+This project follows the [MIT License](LICENSE).
+
+## Author
+**Daniel M. Mwithui**  
+[LinkedIn](https://www.linkedin.com/in/daniel-mwendwa-mwithui/) | [GitHub](https://github.com/daniel-mwendwa)
 
 ## 🧰 Technical Tools & Commands
 
@@ -75,12 +81,4 @@ netstat -aofn | find "4400"
 
 # Investigate macros
 Menu > View > Macros > Edit
-
-
-## License
-This project follows the [MIT License](LICENSE).
-
-## Author
-**Daniel M. Mwithui**  
-[LinkedIn](https://www.linkedin.com/in/daniel-mwendwa-mwithui/) | [GitHub](https://github.com/daniel-mwendwa)
 
