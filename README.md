@@ -75,3 +75,12 @@ netstat -aofn | find "4400"
 
 # Investigate macros
 Menu > View > Macros > Edit
+
+
+## License
+This project follows the [MIT License](LICENSE).
+
+## Author
+**Daniel M. Mwithui**  
+[LinkedIn](https://www.linkedin.com/in/daniel-mwendwa-mwithui/) | [GitHub](https://github.com/daniel-mwendwa)
+
