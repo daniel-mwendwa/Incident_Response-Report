@@ -1,5 +1,5 @@
 # 🧠 Cybersecurity Incident Response – 2025 🛡️  
-    
+     
 This repository documents a hands-on incident response walkthrough simulating a real-world security incident on a Windows workstation. It follows the full IR lifecycle using NIST and SANS frameworks, from preparation to post-incident actions.
 
 > _“Keep learning, keep adapting, and keep growing.”_ – Cyb3rd4nc3
